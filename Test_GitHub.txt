@@ -1,0 +1,16 @@
+JAva Crash Course
+-------------------
+
+1. Project, Packages , Class, test cases
+2. Premitive Data types, Wrapper classes, Return type
+3. Methods or functions
+4. Constructors - types of constructors
+5. Conditional statements and looping
+6. Opps concepts
+	* Inheritance
+	* Abstraction
+	* encapsulation
+	* Polymorpism
+7. Strings , String Buffer, String Builder
+8. Exception handling
+9. Java collections framework - List, Set and Map
